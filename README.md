@@ -11,7 +11,8 @@ This project analyzes credit card spending data to understand customer spending 
 1. Python
 2. Pandas
 3. Google Looker Studio
-4. CSV Dataset
+4. Google Colab
+5. CSV Dataset
 
 ## Dashboard Overview
 
